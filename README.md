@@ -3,5 +3,5 @@
 
 Mini Walkthrough Project
 
-[Repo Link](https://github.com/rebeccatraceyt/love-running) |  [Live Link]()
+[Repo Link](https://github.com/rebeccatraceyt/love-running "Link to Project Repository") |  [Live Link](https://rebeccatraceyt.github.io/love-running/index.html "Link to Live Project")
 </div>
