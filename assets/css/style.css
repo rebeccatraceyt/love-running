@@ -66,6 +66,10 @@ h1, h2 {
     position: relative;
 }
 
+#cover-text, #cover-text h2 {
+    color: #fff;
+}
+
 #hero-image {
     height: 600px;
     width: 100%;
@@ -267,5 +271,16 @@ footer {
 
     hr {
         display: none;
+    }
+}
+
+/* For medium screens */
+@media screen and (max-width: 950px) {
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
     }
 }
